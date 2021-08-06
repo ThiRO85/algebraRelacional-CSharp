@@ -1,0 +1,16 @@
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ReviewLinq.exe
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ReviewLinq.deps.json
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ReviewLinq.runtimeconfig.json
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ReviewLinq.runtimeconfig.dev.json
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ReviewLinq.dll
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ref\ReviewLinq.dll
+C:\WorkSpaceVSCode\ReviewLinq\bin\Debug\net5.0\ReviewLinq.pdb
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.csproj.AssemblyReference.cache
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.AssemblyInfoInputs.cache
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.AssemblyInfo.cs
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.csproj.CoreCompileInputs.cache
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.dll
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ref\ReviewLinq.dll
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.pdb
+C:\WorkSpaceVSCode\ReviewLinq\obj\Debug\net5.0\ReviewLinq.genruntimeconfig.cache
